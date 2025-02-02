@@ -4,10 +4,15 @@ This C# program reads a file containing numbers (one per line), calculates their
 
 🔹 How it works:
 1️⃣ The user is prompted to enter the name or path of a file.
+
 2️⃣ The program reads all lines from the file and tries to convert each line into an integer.
+
 3️⃣ If a line is not a valid number, it throws a format error.
+
 4️⃣ It then computes both the sum and the product of the numbers.
+
 5️⃣ Any errors (e.g., file not found, formatting issues) are caught and a friendly error message is displayed.
+
 6️⃣ The process repeats until the user chooses to quit.
 
 ```
