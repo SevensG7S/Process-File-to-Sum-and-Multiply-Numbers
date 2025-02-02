@@ -3,6 +3,7 @@
 This C# program reads a file containing numbers (one per line), calculates their sum and product, and then displays the results. It gracefully handles errors like missing files and invalid number formats.
 
 🔹 How it works:
+
 1️⃣ The user is prompted to enter the name or path of a file.
 
 2️⃣ The program reads all lines from the file and tries to convert each line into an integer.
