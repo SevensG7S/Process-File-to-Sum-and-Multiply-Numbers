@@ -1,0 +1,15 @@
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\bin\Debug\net9.0\Process_File.exe
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\bin\Debug\net9.0\Process_File.deps.json
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\bin\Debug\net9.0\Process_File.runtimeconfig.json
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\bin\Debug\net9.0\Process_File.dll
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\bin\Debug\net9.0\Process_File.pdb
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\Process_File.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\Process_File.AssemblyInfoInputs.cache
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\Process_File.AssemblyInfo.cs
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\Process_File.csproj.CoreCompileInputs.cache
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\Process_File.sourcelink.json
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\Process_File.dll
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\refint\Process_File.dll
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\Process_File.pdb
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\Process_File.genruntimeconfig.cache
+D:\Github\Process-File-to-Sum-and-Multiply-Numbers\Process_File\Process_File\obj\Debug\net9.0\ref\Process_File.dll
